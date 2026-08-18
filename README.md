@@ -16,7 +16,7 @@ int main() {
     return 0;
 }
 
-## Variables
+// Variables
 ```cpp
 #include <iostream>
 using namespace std;
@@ -30,7 +30,7 @@ int main() {
     return 0;
 }
 
-## loops
+// loops
 
 ```cpp
 #include <iostream>
@@ -70,8 +70,3 @@ int main() {
     return 0;
 }
 
-
-# compile and run
-
-g++ main.cpp -o main
-./main

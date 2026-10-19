@@ -116,7 +116,3 @@ Some filenames include minor spelling inconsistencies or placeholder file names,
 - Pick a topic directory and run each example.
 - Modify the examples to experiment with different inputs.
 - Try combining multiple concepts into a small project.
-
-## License
-
-This repository does not currently include a license file. If you plan to reuse or distribute the code, add a license explicitly.
